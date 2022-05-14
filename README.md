@@ -2,131 +2,117 @@
 <p align="center">
   <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"></a>
 </p>
-
-- 🏢 I'm currently interning at [Atomionics](https://www.sginnovate.com/investments/atomionics) under the SGInnovate programme
-- 👯 I'm happy to collaborate on any web development or data science project
-- 💬 Ask me about my experiences as a Computer Science student at NUS and my previous internships
-- 📫 How to reach me: 
-     - Personal: aadit.k12@gmail.com
-     - School: aadit_kamat@u.nus.edu
-
-### Social media profiles
-<p align="left">
-<a href="https://twitter.com/@K12Aadit"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter profile" height="30" width="40" /></a>
-<a href="https://facebook.com/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aaditkamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/541515000926306316"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Discord profile" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/21w5qrmgsdsccbhg24a2x3fhi"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="Spotify profile" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/Aadit-Kamat"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" alt="Quora profile" height="30" width="40" /></a>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
 </p>
 
-### Languages and Tools
-<p align="left">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ruby.svg" alt="Ruby" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="C" height="30" width="40" />
-     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/haskell.svg" alt="Haskell" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" height="30" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rubyonrails.svg" alt="Ruby on Rails" height="30" width="40" />
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer" /></a>
 </p>
- 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21w5qrmgsdsccbhg24a2x3fhi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21w5qrmgsdsccbhg24a2x3fhi&redirect=true)
 
-### My GitHub stats 
+   <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+   <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>  
+  <a href="https://www.kaggle.com/aastha124" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a>  
+ <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
 
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=aaditkamat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- 👋 Hi, I’m Aastha
+- 💼 I'm a Data Scientist at Dubai Holding
+- 💬 Talk to me about freelancing opportunities in data science and software engineering
+- 👯 I’m looking to collaborate on backend software engineering projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaditkamat&count_private=true&show_icons=true" />
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditkamat&layout=compact" />
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
 
+   <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+   <a href="https://keras.io/" target="_blank">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  </a>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
+   <a href="https://numpy.org/" target="_blank">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
 
-**🐱 My Github Data** 
+   <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
 
-> 🏆 575 Contributions in the Year 2020
- > 
-> 📦 163.2 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 62 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm an Early 🐤** 
+   <a href="https://plotly.com/" target="_blank">
+    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+  </a>
 
-```text
-🌞 Morning    164 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌆 Daytime    159 commits    ████████░░░░░░░░░░░░░░░░░   32.32% 
-🌃 Evening    125 commits    ██████░░░░░░░░░░░░░░░░░░░   25.41% 
-🌙 Night      44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94%
+   <a href="https://streamlit.io/" target="_blank">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  </a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
 
-```
-📅 **I'm Most Productive on Saturday** 
+   <a href="https://opencv.org/" target="_blank">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+  </a>
+   <a href="https://www.selenium.dev/" target="_blank">
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  </a>
+   <a href="https://jupyter.org/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  </a>
+<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 
-```text
-Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Tuesday      47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-Wednesday    39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
-Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
-Friday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
-Saturday     119 commits    ██████░░░░░░░░░░░░░░░░░░░   24.19% 
-Sunday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63%
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-Python                   15 hrs 39 mins      ████████████████████░░░░░   82.87% 
-Docker                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
-Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-Git Config               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
-
-🔥 Editors: 
-PyCharm                  18 hrs 53 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  14 hrs 19 mins      ███████████████████░░░░░░   75.81% 
-Mac                      4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
-Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
-
-```
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastha12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+  <br/>
+  </p>
+</details>
 
 
-**Timeline**
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
-![Chart not found](https://raw.githubusercontent.com/aaditkamat/aaditkamat/master/charts/bar_graph.png) 
+</details>
+
+<br/>
+
+## Popular Projects
+<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
+</a>  
 
 
-<!--END_SECTION:waka-->
------
-Credits: [aaditkamat](https://github.com/aaditkamat)
+<a href="https://github.com/aastha12/Loan_Prediction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
+</a> 
 
-Last Edited on: 27/12/2020
+----------------------------------------------------------------------
+Credit: [aastha12](https://github.com/aastha12)
+
+Last Edited on: 19/10/2021
