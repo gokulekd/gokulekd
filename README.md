@@ -17,52 +17,24 @@
 
 
 
-<h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am aayushi Sharma. I Love ❤️ programming and currently working as Machine learning engineer. </p>
-<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
-<h3 align="center"> Language & Skills </h3>
+<h1 align="center"> Hello, I'm Abhinav Dubey</h1>
+<h3 align="center">🚀 Full Stack Developer 🚀</h3>
 
-- Python
-- C++
-- JavaScipt
-- Web Development
-- Machine Learning
-- Deep learning
-- Natural language processing
-- App Development
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
 
-<h4 align="center">Things got bugs, gonna smash them one by one</h4>
+- 🔭 I’m currently working on TravelGram App
+- 🌱 I’m currently learning Angular & deno
+- 👯 I’m looking to collaborate on MERN stack projects
+- 💬 Ask me about Web dev related Stuff
+- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/abhinav-dubey-26823316a/) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:dubey.abhinav76@gmail.com)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushi-droid&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-- 📝 I regulary write articles on [Aayushi's Blog](http://aayushi-droid.github.io/)
+## Some Statistics About Me
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavdubeyad9&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
 
-<p align="center">
-<a href="https://dev.to/aayushidroid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
-</p>
+----
+Credits: [abhinavdubeyad9](https://github.com/abhinavdubeyad9)
 
------
-Credits: [aayushi-droid](https://github.com/aayushi-droid)
-
-Last Edited on: 27/12/2020
-</details>
-
-<br/>
-
-## Popular Projects
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=MDX-Food-Safety-Hackathon&theme=onedark" />
-</a>  
-
-
-<a href="https://github.com/aastha12/Loan_Prediction">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&repo=Loan_Prediction&theme=onedark" />
-</a> 
-
-----------------------------------------------------------------------
-Credit: [aastha12](https://github.com/aastha12)
-
-Last Edited on: 19/10/2021
+Last Edited on: 31/08/2020
