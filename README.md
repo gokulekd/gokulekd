@@ -13,42 +13,119 @@
 - 💬 Ask me about **flutter**
 
 - 📫 How to reach me **gokulksureshekd5606@gmail.com**
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
+<img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="60px">
 
-<h1 align="center">Hi 👋, I'm Akhil G Krishnan</h1>
-<h3 align="center">I'm Akhil G Krishnan, a 22-year old technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.</h3>
+Meticulous and motivated undergraduate student , indulged in competitive programming,my field of interest is Computer Vision and my B-Tech is focused in Computer Science.I am an open-source enthusiast. I have worked as project admin/mentor in various organisation.
+<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
+🔭 I have  worked as a 
 
-- 🔭 I’m currently working on [FaceMask- Access Control](https://github.com/AkhilGKrishnan/Face-Mask-Detector)
+Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor at SLOP'2020, Mentor at NJACK NWoC 2020(IIT Patna), Project admin at Script, Winter of code 20-21, DevScript Winter of Code S01, Project Mentor at Winter of Code 1.0, Mentor at UAceIt Winter of Mentorship and GSSOC 2021.
 
-- 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking to collaborate on [CensorLabel](https://github.com/AkhilGKrishnan/CensorLabel)
+🌟 STAR THE REPOS IF YOU LIKE 🌟
 
-- 👨‍💻 All of my projects are available at [https://akhilgkrishnan.me](https://akhilgkrishnan.me)
+	
+	
+</br>
+	
+  <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
 
-- 📫 How to reach me **info@akhilgkrishnan.me**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/akshitagupta15june/lane_detection_opencv"><b>🚀 Lane Detection (OpenCV)</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/lane_detection_opencv?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/lane_detection_opencv?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/lane_detection_opencv?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/akshitagupta15june/vehicle_speed_estimator"><b>💻 Vehicle Speed Estimator</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/vehicle_speed_estimator?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/vehicle_speed_estimator?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/vehicle_speed_estimator?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/vehicle_speed_estimator?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/vehicle_speed_estimator?label=Python&style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/akshitagupta15june/Face-X"><b>👨 Face-X</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/akshitagupta15june/Face-Recognition-Attendance-System?style=flat-square"/></td> 
+      </tr>
+    </tbody>
+  </table>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilgkrishnan&layout=compact&hide=html" alt="akhilgkrishnan" /></p>
+<br/>  
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilgkrishnan&show_icons=true" alt="akhilgkrishnan" /></p>
 
+
+<div align="center">
+  
+
+
+
+
+</div>
+
+<div align="center">
+  
+
+
+  
+  <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+  
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/octocat.jpeg" height=300 width=300>
+
+ ### ⚡ Fun fact about me: ✨ I love coding+eating+repeating✨ 
+ 
+
+<h2>Connect with me!  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h2>
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshita-gupta-a4a895187/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Akshita_archer/)
+[<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akshitagupta15june)   [<img src="https://img.shields.io/badge/BLOGS-%23292929.svg?&style=for-the-badge&logo=BLOGS&logoColor=white" />](https://akshita1506.home.blog) 
+
+![](https://visitor-badge.glitch.me/badge?page_id=akshitagupta15june.akshitagupta15june)
+
+</div>
+
+
+
+<br/>
+<br/>
+<br/>
+
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-<a href="https://dev.to/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
-<a href="https://twitter.com/Mrakhilg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/10321356" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10321356" height="30" width="30" /></a>
-<a href="https://kaggle.com/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
-<a href="https://fb.com/akhilgkrishnan9800" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akhilgkrishnan9800" height="30" width="30" /></a>
-<a href="https://instagram.com/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
-<a href="https://medium.com/@akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akhilgkrishnan" height="30" width="30" /></a>
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-----
-Credit: [AkhilGKrishnan](https://github.com/AkhilGKrishnan)
+<!-- https://github.com/Ayan-thecodeking/akshitagupta15june/blob/output/github-contribution-grid-snake.gif?raw=true -->
 
-Last Edited on: 23/09/2020
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Credit: [akshitagupta15june](https://github.com/akshitagupta15june)
+
+Last Edited on: 23/09/2021
