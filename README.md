@@ -25,8 +25,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jhdskjhf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jhdskjhf" /></a></p><br><br>
 
-
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 # Angel Jaime
 
