@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate **Flutter developer** with over 2 years o
 - 🔧 Build **cross-platform mobile apps** using Flutter (Dart)
 - 🧠 Solve UI/UX challenges with clean and responsive design
 - 🔄 Integrate Firebase (Auth, Firestore, Cloud Messaging, Dynamic Links)
-- 🧭 Work with GetX, Riverpod, and Bloc for state management
+- 🧭 Work with GetX, Riverpod, Bloc, and Provider for state management
 - 🌍 REST API and third-party integration (Google Maps, Payment Gateways)
 - 🧪 Write maintainable code with scalable architecture
 
@@ -21,20 +21,12 @@ Welcome to my GitHub! I'm a passionate **Flutter developer** with over 2 years o
 
 | Area          | Tools & Frameworks                                     |
 |---------------|--------------------------------------------------------|
-| Language      | Dart, JavaScript, Python                               |
-| Framework     | Flutter, Firebase, Node.js (basic)                     |
-| State Mgmt    | GetX, Riverpod, Bloc                                   |
-| UI/UX         | Figma, Adobe XD, Responsive Layouts                    |
+| Language      | Dart, HTML, CSS, JavaScript, Java                      |
+| Framework     | Flutter, Firebase                                      |
+| State Mgmt    | GetX, Riverpod, Bloc, Provider                         |
+| UI/UX         | Figma, Responsive Layouts                              |
 | Tools         | Git, GitHub, Postman, VS Code, Android Studio          |
 | Others        | Firestore, Firebase Auth, FCM, Dynamic Links, Maps API |
-
----
-
-### 📌 Featured Projects
-
-- 🔗 [Nook App](https://github.com/your-nook-app-repo) – A community app for events and collaboration
-- 🔗 [EpicCenter Store](https://github.com/your-epiccenter-store) – E-commerce app for digital gadgets, fashion, and more
-- 🔗 [RoadKill](https://github.com/your-roadkill-app) – A government-backed wildlife tracking app for Tamil Nadu Forest Department
 
 ---
 
@@ -49,11 +41,14 @@ Welcome to my GitHub! I'm a passionate **Flutter developer** with over 2 years o
 
 ### 📫 Let's Connect
 
-- 📧 Email: gokul.dev.mastermind@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/gokulks](https://linkedin.com/in/gokulks)
-- 🌍 Portfolio: *Coming Soon*
+- 📧 Email: [gokul.dev.mastermind@gmail.com](mailto:gokulofficialcommunication@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/gokulks](https://www.linkedin.com/in/gokul-k-s-a0422a235/)  
+- 🐦 Twitter: [@gokulks_dev](https://x.com/Gokul_Dev_)  
+- ✍️ Medium: [@gokulks](https://medium.com/@gokul.dev.mastermind)  
+- 🌐 Portfolio: [gokulks.dev](https://gokuldev.framer.website/)
 
 ---
 
-> *“Code is not just what a computer understands, it's what humans can maintain.”* – Let’s build the future, one Flutter app at a time.
+> *“Code is not just what a computer understands, it's what humans can maintain.”*  
+> — Let’s build the future, one Flutter app at a time.
 
